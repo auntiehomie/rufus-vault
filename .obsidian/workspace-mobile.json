@@ -158,10 +158,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "624af87e5ddb8351",
+  "active": "d892668fad632884",
   "lastOpenFiles": [
     "notes",
     "daily",
