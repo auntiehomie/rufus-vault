@@ -9,6 +9,8 @@
   - Knowledge base for curated articles — public /reading section with annotations and tags.
   - Projects showcase page — cards with stack badges, GitHub links, status for each project.
   - Cal.com scheduling integration — embed booking widget for coffee chats and meetings.
-  - SEO, Open Graph & performance baseline — dynamic OG images, JSON-LD, Lighthouse 95+.
 - **Notes:** None
 - **Stack:** None
+
+## Research Areas for Improvement:
+- Research tools for optimizing infrastructure setup for JAMstack applications.

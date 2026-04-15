@@ -7,3 +7,6 @@
   - Migrate from render to a simply vercel option for running bankbud service.
 - **Notes:** None
 - **Stack:** None
+
+## Research Areas for Improvement:
+- Look into Vercel deployment options suitable for Bankbud services.
