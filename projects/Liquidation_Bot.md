@@ -11,3 +11,6 @@
   - P&L dashboard — Grafana/Prometheus metrics or Discord daily summary webhook.
 - **Notes:** None
 - **Stack:** None
+
+## Research Areas for Improvement:
+- Investigate MEV protection strategies and suitable implementations.
