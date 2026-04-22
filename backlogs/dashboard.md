@@ -1,20 +1,19 @@
 # Projects Dashboard
 
-## Active Work
+## Health Table
+
 ```dataview
-TASK
+TABLE
 FROM "backlogs"
-WHERE section = "Next" OR section = "In Progress"
-WHERE !completed
+WHERE file.name != "dashboard"
 SORT file.name ASC
 ```
 
-## Health Table
+## Active Work
+
 ```dataview
-TABLE
-  length(filter(file.tasks, (t) => t.section = "Next" AND !t.completed)) AS "Next",
-  length(filter(file.tasks, (t) => t.section = "In Progress" AND !t.completed)) AS "In Progress",
-  length(filter(file.tasks, (t) => t.section = "Backlog" AND !t.completed)) AS "Backlog"
+TASK
 FROM "backlogs"
+WHERE file.name != "dashboard"
 SORT file.name ASC
 ```
