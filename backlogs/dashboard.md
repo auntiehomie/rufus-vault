@@ -1,7 +1,7 @@
 # Projects Dashboard
 
 ```dataview
-TABLE file.mtime AS "Last Modified"
-FROM "backlogs"
-WHERE file.name != "dashboard"
+TABLE file.folder AS "Folder"
+FROM ""
+LIMIT 10
 ```
