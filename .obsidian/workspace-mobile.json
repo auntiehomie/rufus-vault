@@ -43,7 +43,17 @@
               "state": {
                 "file": "backlogs/dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "dashboard"
@@ -180,9 +190,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "b22138eb5ee29ec5",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,11 +219,13 @@
   },
   "active": "09204bf4decf97de",
   "lastOpenFiles": [
+    "projects/Oura_API_Integration.md",
     "projects/Bankbud.md",
+    "projects/Homiehouse.md",
     "backlogs/dashboard.md",
+    "notes/Knowledge Base 1.md",
     "notes/Obsidian_Vault_Git_Sync.md",
     "notes/Untitled.md",
-    "notes/Knowledge Base 1.md",
     "projects/Scheduler_idea.md",
     "backlogs/personal-website-BACKLOG.md",
     "backlogs/solana-arb-bot-BACKLOG.md",
@@ -214,9 +236,7 @@
     "backlogs/Meteora-LP-Bot-BACKLOG.md",
     "backlogs",
     "notes/Pentagon Disturbed as Its Fleet of Drones Is Left Bobbing in the Ocean When Elon Musk's Starlink Fails.md",
-    "projects/Oura_API_Integration.md",
     "projects/Liquidation_Bot.md",
-    "projects/Homiehouse.md",
     "/projects/Personal_Website.md",
     "/projects/Liquidation_Bot.md",
     "/projects/Homiehouse.md",
