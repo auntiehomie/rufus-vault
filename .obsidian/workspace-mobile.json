@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Knowledge Base 1.md",
+                "file": "projects/Bankbud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge Base 1"
+              "title": "Bankbud"
             }
           }
         ],
@@ -193,13 +193,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "09204bf4decf97de",
   "lastOpenFiles": [
-    "notes/Untitled.md",
     "notes/Knowledge Base 1.md",
+    "notes/Untitled.md",
     "notes/Pentagon Disturbed as Its Fleet of Drones Is Left Bobbing in the Ocean When Elon Musk's Starlink Fails.md",
     "projects/Oura_API_Integration.md",
     "projects/Liquidation_Bot.md",
