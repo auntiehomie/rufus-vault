@@ -1,89 +1,50 @@
 {
   "main": {
-    "id": "430f15d9e750ab8a",
+    "id": "fd26d22bfbc8c44a",
     "type": "split",
     "children": [
       {
-        "id": "75c3c19c5e0ae7b9",
+        "id": "e6a2d8b0d6b316b5",
         "type": "tabs",
         "children": [
           {
-            "id": "624af87e5ddb8351",
+            "id": "05efffda531b2648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Bankbud.md",
+                "file": "backlogs/Personal-Website-BACKLOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bankbud"
-            }
-          },
-          {
-            "id": "5545405952f4a423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/Bankbud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bankbud"
-            }
-          },
-          {
-            "id": "09204bf4decf97de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backlogs/dashboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dashboard"
+              "title": "Personal-Website-BACKLOG"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b04081d3fc3e8290",
+    "id": "58157188e0b86cb2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9b857a50ab48d504",
+        "id": "5416ba805d15a486",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "0bc21650edab839c",
+        "id": "fba33b4cb841dbc3",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -100,7 +61,7 @@
         }
       },
       {
-        "id": "cf93c11bd2e5a3aa",
+        "id": "f519fd63825d6d42",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -115,7 +76,7 @@
         }
       },
       {
-        "id": "040c10bce9ea0db5",
+        "id": "1677154e615ef2e3",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -129,7 +90,7 @@
         }
       },
       {
-        "id": "3fb96f8a46fb1028",
+        "id": "66486d18f2816917",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -142,16 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c3c3b367f05b0e3c",
+    "id": "c09c3e12722b6d22",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d892668fad632884",
+        "id": "330265db644d8cd4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "backlogs/dashboard.md",
+            "file": "backlogs/Personal-Website-BACKLOG.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,11 +126,12 @@
         }
       },
       {
-        "id": "650347d92dfe6d32",
+        "id": "bf56c8a3fe9adc49",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "backlogs/Personal-Website-BACKLOG.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -178,11 +140,12 @@
         }
       },
       {
-        "id": "8272e19b6e259b73",
+        "id": "7b6b2ca4e863bf84",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "backlogs/Personal-Website-BACKLOG.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -190,19 +153,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "b22138eb5ee29ec5",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,38 +170,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "09204bf4decf97de",
+  "active": "05efffda531b2648",
   "lastOpenFiles": [
-    "notes/Knowledge Base 1.md",
-    "backlogs/dashboard.md",
-    "projects/Oura_API_Integration.md",
-    "projects/Bankbud.md",
-    "projects/Homiehouse.md",
-    "notes/Obsidian_Vault_Git_Sync.md",
-    "notes/Untitled.md",
-    "projects/Scheduler_idea.md",
-    "backlogs/personal-website-BACKLOG.md",
-    "backlogs/solana-arb-bot-BACKLOG.md",
-    "backlogs/liquidation-bot-BACKLOG.md",
-    "backlogs/bankbud-BACKLOG.md",
-    "backlogs/homiehouse-BACKLOG.md",
+    "backlogs/Solana-Arb-bot-BACKLOG.md",
+    "backlogs/Personal-Website-BACKLOG.md",
+    "backlogs/Meteora-lp-bot-BACKLOG.md",
+    "backlogs/Liquidation-bot-BACKLOG.md",
+    "backlogs/Scheduler-idea-BACKLOG.md",
+    "backlogs/Homiehouse-BACKLOG.md",
     "backlogs/BankBud-BACKLOG.md",
-    "backlogs/Meteora-LP-Bot-BACKLOG.md",
-    "backlogs",
-    "notes/Pentagon Disturbed as Its Fleet of Drones Is Left Bobbing in the Ocean When Elon Musk's Starlink Fails.md",
-    "projects/Liquidation_Bot.md",
-    "/projects/Personal_Website.md",
-    "/projects/Liquidation_Bot.md",
-    "/projects/Homiehouse.md",
-    "/projects/Bankbud.md",
-    "projects/Personal_Website.md",
-    "notes/Obsidian Sync.md",
-    "/projects/Oura_API_Integration.md",
-    "/projects",
-    "/notes/Obsidian_Vault_Git_Sync.md",
-    "/notes",
-    "notes",
+    "backlogs/dashboard.md",
+    "/backlogs/dashboard.md",
+    "/backlogs",
     "daily",
-    "projects"
+    "backlogs",
+    "projects/Bankbud.md",
+    "projects/Personal_Website.md",
+    "projects/Scheduler_idea.md",
+    "projects/Homiehouse.md",
+    "projects/Liquidation_Bot.md",
+    "projects/Oura_API_Integration.md",
+    "projects",
+    "notes/Knowledge Base 1.md",
+    "notes/Untitled.md",
+    "notes/Obsidian_Vault_Git_Sync.md",
+    "notes"
   ]
 }

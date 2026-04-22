@@ -1,6 +1,6 @@
 ---
 kanban-plugin: basic
-project: BankBud
+project: Scheduler-Idea
 ---
 
 ## Next
@@ -14,4 +14,3 @@ project: BankBud
 ## Done
 
 ## Cancelled
-
