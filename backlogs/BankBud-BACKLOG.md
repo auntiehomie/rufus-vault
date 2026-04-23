@@ -14,7 +14,7 @@ priority: "1"
 
 ## In Progress
 
-- [ ] - Fix rates loading issue
+- [x] - Fix rates loading issue
 
 
 ## In Review
