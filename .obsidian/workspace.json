@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +192,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4c8ce32b83d136de",
+  "active": "81a5ab725bd48dfa",
   "lastOpenFiles": [
     "backlogs/BankBud-BACKLOG.md",
     "conflict-files-obsidian-git.md",
