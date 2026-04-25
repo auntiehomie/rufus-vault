@@ -4,6 +4,7 @@ project: Personal Website
 repo: https://github.com/auntiehomie/personal-website
 priority: "2"
 last worked: 2025-01-01
+discord channel id: "1492980802668069015"
 ---
 
 ## Next

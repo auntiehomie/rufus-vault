@@ -1,11 +1,10 @@
 ---
-
 kanban-plugin: board
 project: BankBud
 repo: https://github.com/auntiehomie/bankbud
 priority: "1"
 last worked: 2025-01-01
-
+discord channel id: "1481393113950982244"
 ---
 
 ## Next

@@ -1,23 +1,25 @@
 {
   "main": {
-    "id": "fd26d22bfbc8c44a",
+    "id": "47097f1e6aaa7497",
     "type": "split",
     "children": [
       {
-        "id": "e6a2d8b0d6b316b5",
+        "id": "fb0214495da7b1ff",
         "type": "tabs",
         "children": [
           {
-            "id": "05efffda531b2648",
+            "id": "73e662212e60f347",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
                 "file": "backlogs/Solana-Arb-bot-BACKLOG.md",
-                "mode": "source",
-                "source": false
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "Solana-Arb-bot-BACKLOG"
             }
           }
@@ -27,11 +29,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "58157188e0b86cb2",
+    "id": "8b9844b1579d9c9f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5416ba805d15a486",
+        "id": "a233d51d51afc5a3",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +46,7 @@
         }
       },
       {
-        "id": "fba33b4cb841dbc3",
+        "id": "f73162b9617a80df",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +63,7 @@
         }
       },
       {
-        "id": "f519fd63825d6d42",
+        "id": "ab9451b43074f465",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +78,7 @@
         }
       },
       {
-        "id": "1677154e615ef2e3",
+        "id": "93ddba2fdf96f11e",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +92,7 @@
         }
       },
       {
-        "id": "66486d18f2816917",
+        "id": "fcae9204ef64eff2",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,16 +105,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c09c3e12722b6d22",
+    "id": "4f50e8e06cdb6721",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "330265db644d8cd4",
+        "id": "0787f67282bcc84d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "backlogs/Solana-Arb-bot-BACKLOG.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,12 +127,11 @@
         }
       },
       {
-        "id": "bf56c8a3fe9adc49",
+        "id": "d30e68d30c2397c1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "backlogs/Personal-Website-BACKLOG.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -140,12 +140,11 @@
         }
       },
       {
-        "id": "7b6b2ca4e863bf84",
+        "id": "3d9354ac25d2265c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "backlogs/Personal-Website-BACKLOG.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -159,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,34 +166,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05efffda531b2648",
+  "active": "73e662212e60f347",
   "lastOpenFiles": [
-    "backlogs/Scheduler-idea-BACKLOG.md",
-    "backlogs/Personal-Website-BACKLOG.md",
-    "backlogs/Meteora-lp-bot-BACKLOG.md",
-    "backlogs/Liquidation-bot-BACKLOG.md",
-    "backlogs/Homiehouse-BACKLOG.md",
     "backlogs/BankBud-BACKLOG.md",
-    "backlogs/dashboard.md",
+    "backlogs/Homiehouse-BACKLOG.md",
+    "backlogs/Liquidation-bot-BACKLOG.md",
+    "backlogs/Meteora-lp-bot-BACKLOG.md",
+    "backlogs/Personal-Website-BACKLOG.md",
+    "backlogs/Scheduler-idea-BACKLOG.md",
     "backlogs/Solana-Arb-bot-BACKLOG.md",
-    "projects/Homiehouse.md",
-    "projects/Bankbud.md",
-    "/backlogs/dashboard.md",
-    "/backlogs",
-    "daily",
-    "backlogs",
-    "projects/Personal_Website.md",
-    "projects/Scheduler_idea.md",
-    "projects/Liquidation_Bot.md",
-    "projects/Oura_API_Integration.md",
+    "Pasted image 20260425125812.png",
+    "Pasted image 20260425125408.png",
+    "Pasted image 20260423191720.png",
+    "Pasted image 20260423191516.png",
     "projects",
+    "daily",
+    "Pasted image 20260425125445.png",
+    "Pasted image 20260423191618.png",
+    "Pasted image 20260425125626.png",
     "notes/Knowledge Base 1.md",
-    "notes/Untitled.md",
-    "notes/Obsidian_Vault_Git_Sync.md",
-    "notes"
+    "notes",
+    "backlogs/dashboard.md",
+    "backlogs"
   ]
 }

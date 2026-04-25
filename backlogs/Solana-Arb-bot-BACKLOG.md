@@ -4,6 +4,7 @@ project: Solana-arb-bot
 repo: https://github.com/auntiehomie/solana-arb-bot
 priority: "4"
 last worked: 2025-01-01
+discord channel id: "1497728714090221658"
 ---
 
 ## Next

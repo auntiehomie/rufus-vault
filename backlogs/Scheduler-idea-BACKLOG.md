@@ -4,6 +4,7 @@ project: Scheduler-Idea
 repo: https://github.com/auntiehomie/scheduler-idea
 priority: "5"
 last worked: 2025-01-01
+discord channel id: "1497728890259378266"
 ---
 
 ## Next

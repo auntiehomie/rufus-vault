@@ -4,6 +4,7 @@ project: Meteora-lp-bot
 repo: https://github.com/auntiehomie/meteora-lp-bot
 priority: "6"
 last worked: 2025-01-01
+discord channel id: "1497726732982030397"
 ---
 
 ## Next
