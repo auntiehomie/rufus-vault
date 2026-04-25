@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backlogs/BankBud-BACKLOG.md",
+                "file": "backlogs/Personal-Website-BACKLOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BankBud-BACKLOG"
+              "title": "Personal-Website-BACKLOG"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +200,12 @@
     "backlogs/Personal-Website-BACKLOG.md",
     "backlogs/Meteora-lp-bot-BACKLOG.md",
     "backlogs/Liquidation-bot-BACKLOG.md",
-    "backlogs/BankBud-BACKLOG.md",
     "backlogs/Homiehouse-BACKLOG.md",
+    "backlogs/BankBud-BACKLOG.md",
+    "Pasted image 20260425125812.png",
+    "Pasted image 20260425125626.png",
+    "Pasted image 20260425125445.png",
+    "Pasted image 20260425125408.png",
     "conflict-files-obsidian-git.md",
     "Pasted image 20260423191720.png",
     "Pasted image 20260423191618.png",
