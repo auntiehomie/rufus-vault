@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backlogs/Solana-Arb-bot-BACKLOG.md",
+                "file": "backlogs/BankBud-BACKLOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solana-Arb-bot-BACKLOG"
+              "title": "BankBud-BACKLOG"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "4c8ce32b83d136de",
   "lastOpenFiles": [
+    "backlogs/Solana-Arb-bot-BACKLOG.md",
     "backlogs/Scheduler-idea-BACKLOG.md",
     "backlogs/Personal-Website-BACKLOG.md",
     "backlogs/Meteora-lp-bot-BACKLOG.md",
