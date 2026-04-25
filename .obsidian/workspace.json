@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backlogs/BankBud-BACKLOG.md",
+                "file": "backlogs/Solana-Arb-bot-BACKLOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BankBud-BACKLOG"
+              "title": "Solana-Arb-bot-BACKLOG"
             }
           }
         ]
@@ -192,14 +192,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "81a5ab725bd48dfa",
+  "active": "4c8ce32b83d136de",
   "lastOpenFiles": [
+    "backlogs/Scheduler-idea-BACKLOG.md",
+    "backlogs/Personal-Website-BACKLOG.md",
+    "backlogs/Meteora-lp-bot-BACKLOG.md",
+    "backlogs/Liquidation-bot-BACKLOG.md",
     "backlogs/BankBud-BACKLOG.md",
+    "backlogs/Homiehouse-BACKLOG.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20260423191720.png",
     "Pasted image 20260423191618.png",
     "Pasted image 20260423191516.png",
-    "backlogs/Personal-Website-BACKLOG.md",
     "projects/Scheduler_idea.md",
     "projects/Personal_Website.md",
     "projects/Liquidation_Bot.md",

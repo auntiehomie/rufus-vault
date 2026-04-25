@@ -3,6 +3,7 @@ kanban-plugin: board
 project: Scheduler-Idea
 repo: https://github.com/auntiehomie/scheduler-idea
 priority: "5"
+last worked: 2025-01-01
 ---
 
 ## Next

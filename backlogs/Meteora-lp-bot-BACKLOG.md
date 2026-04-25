@@ -3,6 +3,7 @@ kanban-plugin: board
 project: Meteora-lp-bot
 repo: https://github.com/auntiehomie/meteora-lp-bot
 priority: "6"
+last worked: 2025-01-01
 ---
 
 ## Next

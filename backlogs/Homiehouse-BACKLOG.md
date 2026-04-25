@@ -3,6 +3,7 @@ kanban-plugin: board
 project: Homiehouse
 repo: https://github.com/auntiehomie/homiehouse
 priority: "7"
+last worked: 2025-01-01
 ---
 
 ## Next
