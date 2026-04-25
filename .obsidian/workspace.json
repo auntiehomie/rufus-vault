@@ -11,14 +11,16 @@
             "id": "4c8ce32b83d136de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "projects/Bankbud.md",
-                "mode": "source",
-                "source": false
+                "file": "backlogs/BankBud-BACKLOG.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "Bankbud"
+              "icon": "lucide-trello",
+              "title": "BankBud-BACKLOG"
             }
           }
         ]
@@ -178,11 +180,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "4c8ce32b83d136de",
   "lastOpenFiles": [
+    "Pasted image 20260423191720.png",
+    "Pasted image 20260423191618.png",
+    "Pasted image 20260423191516.png",
+    "backlogs/Personal-Website-BACKLOG.md",
+    "backlogs/BankBud-BACKLOG.md",
     "projects/Scheduler_idea.md",
     "projects/Personal_Website.md",
     "projects/Liquidation_Bot.md",

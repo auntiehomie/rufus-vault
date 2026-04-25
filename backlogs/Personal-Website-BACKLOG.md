@@ -1,8 +1,10 @@
 ---
+
 kanban-plugin: board
 project: Personal Website
 repo: https://github.com/auntiehomie/personal-website
 priority: "2"
+
 ---
 
 ## Next
@@ -12,6 +14,7 @@ priority: "2"
 - [ ] - Build reading list section
 - [ ] - Build blog section (scaffold, content in progress)
 - [ ] - Deploy and publish
+- [ ] change instances where personal website is showing as the title, and make it adaniels.xyz
 
 
 ## In Progress
