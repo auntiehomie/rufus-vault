@@ -4,7 +4,6 @@ project: Liquidation-bot
 repo: https://github.com/auntiehomie/liquidation-bot
 priority: "3"
 last worked: 2025-01-01
-discord channel id: "1481393174521053365"
 ---
 
 ## Next

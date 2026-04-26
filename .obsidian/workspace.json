@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backlogs/Personal-Website-BACKLOG.md",
+                "file": "backlogs/Solana-Arb-bot-BACKLOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal-Website-BACKLOG"
+              "title": "Solana-Arb-bot-BACKLOG"
             }
           }
         ]
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,17 +194,12 @@
   },
   "active": "4c8ce32b83d136de",
   "lastOpenFiles": [
-    "backlogs/Solana-Arb-bot-BACKLOG.md",
     "backlogs/Scheduler-idea-BACKLOG.md",
     "backlogs/Personal-Website-BACKLOG.md",
     "backlogs/Meteora-lp-bot-BACKLOG.md",
     "backlogs/Liquidation-bot-BACKLOG.md",
-    "backlogs/Homiehouse-BACKLOG.md",
     "backlogs/BankBud-BACKLOG.md",
-    "Pasted image 20260425125812.png",
-    "Pasted image 20260425125626.png",
-    "Pasted image 20260425125445.png",
-    "Pasted image 20260425125408.png",
+    "backlogs/Homiehouse-BACKLOG.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20260423191720.png",
     "Pasted image 20260423191618.png",
