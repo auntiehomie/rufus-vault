@@ -11,16 +11,14 @@
             "id": "f468d2639db112fe",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "backlogs/Liquidation-bot-BACKLOG.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "projects/Homiehouse.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Liquidation-bot-BACKLOG"
+              "icon": "lucide-file",
+              "title": "Homiehouse"
             }
           }
         ]
@@ -184,6 +182,14 @@
   },
   "active": "f468d2639db112fe",
   "lastOpenFiles": [
+    "projects/Solana Arb Bot.md",
+    "projects/Scheduler Idea Project.md",
+    "projects/Personal Website Project.md",
+    "projects/Meteora LP bot Project.md",
+    "projects/Liquidation Bot.md",
+    "projects/Homiehouse.md",
+    "projects/Bankbud Project.md",
+    "backlogs/Liquidation-bot-BACKLOG.md",
     "backlogs/Homiehouse-BACKLOG.md",
     "backlogs/BankBud-BACKLOG.md",
     "notes/Knowledge Base 1.md",
@@ -195,7 +201,6 @@
     "daily",
     "Pasted image 20260423191618.png",
     "backlogs/Scheduler-idea-BACKLOG.md",
-    "backlogs/Liquidation-bot-BACKLOG.md",
     "backlogs/Meteora-lp-bot-BACKLOG.md",
     "backlogs/Solana-Arb-bot-BACKLOG.md",
     "backlogs/Personal-Website-BACKLOG.md",
