@@ -1,26 +1,26 @@
 {
   "main": {
-    "id": "f6a1a8c766818369",
+    "id": "47097f1e6aaa7497",
     "type": "split",
     "children": [
       {
-        "id": "cdee41bfa4ea9161",
+        "id": "fb0214495da7b1ff",
         "type": "tabs",
         "children": [
           {
-            "id": "f468d2639db112fe",
+            "id": "73e662212e60f347",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "backlogs/BankBud-BACKLOG.md",
+                "file": "backlogs/Meteora-lp-bot-BACKLOG.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": []
                 }
               },
               "icon": "lucide-trello",
-              "title": "BankBud-BACKLOG"
+              "title": "Meteora-lp-bot-BACKLOG"
             }
           }
         ]
@@ -29,11 +29,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6e8abbf3a2d9f042",
+    "id": "8b9844b1579d9c9f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1af42e55d7cb2229",
+        "id": "a233d51d51afc5a3",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "7debd96f2b8a3659",
+        "id": "f73162b9617a80df",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "id": "e9bb13cca691af93",
+        "id": "ab9451b43074f465",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +78,7 @@
         }
       },
       {
-        "id": "cdba41802a70b77a",
+        "id": "93ddba2fdf96f11e",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "8662a1088b1543f9",
+        "id": "fcae9204ef64eff2",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -105,16 +105,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "128bac320838d860",
+    "id": "4f50e8e06cdb6721",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c36a558cf477d76b",
+        "id": "0787f67282bcc84d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "backlogs/BankBud-BACKLOG.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,12 +127,11 @@
         }
       },
       {
-        "id": "a7384c2db96ad0b0",
+        "id": "d30e68d30c2397c1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "backlogs/BankBud-BACKLOG.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -142,12 +140,11 @@
         }
       },
       {
-        "id": "57c2b2c87f7df193",
+        "id": "3d9354ac25d2265c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "backlogs/BankBud-BACKLOG.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,23 +169,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f468d2639db112fe",
+  "active": "73e662212e60f347",
   "lastOpenFiles": [
-    "projects",
+    "projects/homiehouse.md",
+    "/backlogs/Solana-Arb-bot-BACKLOG.md",
+    "/backlogs/Scheduler-idea-BACKLOG.md",
+    "/backlogs/Personal-Website-BACKLOG.md",
+    "/backlogs/Meteora-lp-bot-BACKLOG.md",
+    "/backlogs/Liquidation-bot-BACKLOG.md",
+    "/backlogs/Homiehouse-BACKLOG.md",
+    "/backlogs/BankBud-BACKLOG.md",
+    "/backlogs",
+    "/projects",
+    "backlogs/Meteora-lp-bot-BACKLOG.md",
+    "backlogs/BankBud-BACKLOG.md",
+    "projects/liquidation-bot.md",
+    "projects/meteora-lp-bot.md",
+    "projects/scheduler-idea.md",
+    "projects/solana-arb-bot.md",
+    "projects/personal-website.md",
+    "/projects/solana-arb-bot.md",
+    "/projects/scheduler-idea.md",
+    "/projects/personal-website.md",
+    "/projects/meteora-lp-bot.md",
+    "/projects/liquidation-bot.md",
+    "/projects/homiehouse.md",
+    "/projects/bankbud.md",
+    "projects/bankbud.md",
+    "backlogs/Homiehouse-BACKLOG.md",
+    "backlogs/Liquidation-bot-BACKLOG.md",
+    "backlogs/Solana-Arb-bot-BACKLOG.md",
+    "Pasted image 20260425125812.png",
+    "Pasted image 20260425125408.png",
     "Pasted image 20260423191720.png",
     "Pasted image 20260423191516.png",
+    "projects",
     "daily",
+    "Pasted image 20260425125445.png",
     "Pasted image 20260423191618.png",
-    "backlogs/Homiehouse-BACKLOG.md",
-    "backlogs/Scheduler-idea-BACKLOG.md",
-    "backlogs/Liquidation-bot-BACKLOG.md",
-    "backlogs/Meteora-lp-bot-BACKLOG.md",
-    "backlogs/Solana-Arb-bot-BACKLOG.md",
-    "backlogs/Personal-Website-BACKLOG.md",
-    "backlogs/dashboard.md",
-    "backlogs/BankBud-BACKLOG.md",
-    "backlogs",
-    "notes/Knowledge Base 1.md",
-    "notes"
+    "Pasted image 20260425125626.png",
+    "notes",
+    "backlogs"
   ]
 }
