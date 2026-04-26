@@ -8,10 +8,10 @@ last worked: 2025-01-01
 
 ## Next
 
-- [ ] - Review current rebalancing logic
-- [ ] - Verify price tracking against Meteora AMMs
-- [ ] - Test balance growth over time in simulation
-- [ ] - Harden against edge cases (depeg, RPC failures)
+- [x] - Review current rebalancing logic
+- [x] - Verify price tracking against Meteora AMMs
+- [x] - Test balance growth over time in simulation
+- [x] - Harden against edge cases (depeg, RPC failures)
 
 
 ## In Progress
