@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backlogs/BankBud-BACKLOG.md",
+                "file": "projects/homiehouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BankBud-BACKLOG"
+              "title": "homiehouse"
             }
           }
         ]
@@ -169,6 +169,8 @@
   },
   "active": "73e662212e60f347",
   "lastOpenFiles": [
+    "backlogs/Meteora-lp-bot-BACKLOG.md",
+    "backlogs/BankBud-BACKLOG.md",
     "projects/homiehouse.md",
     "projects/liquidation-bot.md",
     "projects/meteora-lp-bot.md",
@@ -186,11 +188,9 @@
     "/projects",
     "backlogs/Homiehouse-BACKLOG.md",
     "backlogs/Liquidation-bot-BACKLOG.md",
-    "backlogs/Meteora-lp-bot-BACKLOG.md",
     "backlogs/Solana-Arb-bot-BACKLOG.md",
     "backlogs/Personal-Website-BACKLOG.md",
     "backlogs/Scheduler-idea-BACKLOG.md",
-    "backlogs/BankBud-BACKLOG.md",
     "Pasted image 20260425125812.png",
     "Pasted image 20260425125408.png",
     "Pasted image 20260423191720.png",
