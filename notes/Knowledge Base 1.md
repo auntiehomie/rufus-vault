@@ -13,3 +13,6 @@ I built my entire second brain inside VS Code and stopped switching apps entirel
 [I built my entire second brain inside VS Code and stopped switching apps entirely](https://flip.it/ZIaXsN)
 
 [FIP: Proof of Quality · farcasterorg · Discussion #17](https://github.com/orgs/farcasterorg/discussions/17)
+
+Decent into fascism with Palantir 
+https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/

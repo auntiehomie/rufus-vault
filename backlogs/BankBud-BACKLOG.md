@@ -2,7 +2,7 @@
 kanban-plugin: board
 project: BankBud
 repo: https://github.com/auntiehomie/bankbud
-priority: "1"
+priority: "3"
 last worked: 2026-04-26
 ---
 

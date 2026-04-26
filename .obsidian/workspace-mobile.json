@@ -13,14 +13,14 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "backlogs/BankBud-BACKLOG.md",
+                "file": "backlogs/Liquidation-bot-BACKLOG.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": []
                 }
               },
               "icon": "lucide-trello",
-              "title": "BankBud-BACKLOG"
+              "title": "Liquidation-bot-BACKLOG"
             }
           }
         ]
@@ -155,9 +155,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "27ca772f607afbcc",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,21 +184,23 @@
   },
   "active": "f468d2639db112fe",
   "lastOpenFiles": [
+    "backlogs/Homiehouse-BACKLOG.md",
+    "backlogs/BankBud-BACKLOG.md",
+    "notes/Knowledge Base 1.md",
+    "/backlogs/BankBud-BACKLOG.md",
+    "/backlogs",
     "projects",
     "Pasted image 20260423191720.png",
     "Pasted image 20260423191516.png",
     "daily",
     "Pasted image 20260423191618.png",
-    "backlogs/Homiehouse-BACKLOG.md",
     "backlogs/Scheduler-idea-BACKLOG.md",
     "backlogs/Liquidation-bot-BACKLOG.md",
     "backlogs/Meteora-lp-bot-BACKLOG.md",
     "backlogs/Solana-Arb-bot-BACKLOG.md",
     "backlogs/Personal-Website-BACKLOG.md",
     "backlogs/dashboard.md",
-    "backlogs/BankBud-BACKLOG.md",
     "backlogs",
-    "notes/Knowledge Base 1.md",
     "notes"
   ]
 }
